@@ -1,4 +1,4 @@
-![logo](docResources/altswiftui.svg)
+![logo](https://raw.githubusercontent.com/rakutentech/AltSwiftUI/master/docResources/altswiftui.svg)
 
 Open Source UI framework based on SwiftUI syntax and features, adding backwards compatibility.
 
